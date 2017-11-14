@@ -1,0 +1,11 @@
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\bin\Debug\netcoreapp2.0\LandingPage.deps.json
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\bin\Debug\netcoreapp2.0\LandingPage.runtimeconfig.json
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\bin\Debug\netcoreapp2.0\LandingPage.runtimeconfig.dev.json
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\bin\Debug\netcoreapp2.0\LandingPage.dll
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\bin\Debug\netcoreapp2.0\LandingPage.pdb
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\obj\Debug\netcoreapp2.0\LandingPage.csprojResolveAssemblyReference.cache
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\obj\Debug\netcoreapp2.0\LandingPage.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\obj\Debug\netcoreapp2.0\LandingPage.AssemblyInfoInputs.cache
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\obj\Debug\netcoreapp2.0\LandingPage.AssemblyInfo.cs
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\obj\Debug\netcoreapp2.0\LandingPage.dll
+D:\WS\Visual Studio 2017\DairyFresh\LandingPage\obj\Debug\netcoreapp2.0\LandingPage.pdb

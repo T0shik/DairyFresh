@@ -1,0 +1,12 @@
+D:\WS\Visual Studio 2017\DairyFresh\Website\bin\Debug\netcoreapp2.0\Website.deps.json
+D:\WS\Visual Studio 2017\DairyFresh\Website\bin\Debug\netcoreapp2.0\Website.runtimeconfig.json
+D:\WS\Visual Studio 2017\DairyFresh\Website\bin\Debug\netcoreapp2.0\Website.runtimeconfig.dev.json
+D:\WS\Visual Studio 2017\DairyFresh\Website\bin\Debug\netcoreapp2.0\Website.dll
+D:\WS\Visual Studio 2017\DairyFresh\Website\bin\Debug\netcoreapp2.0\Website.pdb
+D:\WS\Visual Studio 2017\DairyFresh\Website\obj\Debug\netcoreapp2.0\Website.csprojResolveAssemblyReference.cache
+D:\WS\Visual Studio 2017\DairyFresh\Website\obj\Debug\netcoreapp2.0\Website.csproj.CoreCompileInputs.cache
+D:\WS\Visual Studio 2017\DairyFresh\Website\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\WS\Visual Studio 2017\DairyFresh\Website\obj\Debug\netcoreapp2.0\Website.AssemblyInfoInputs.cache
+D:\WS\Visual Studio 2017\DairyFresh\Website\obj\Debug\netcoreapp2.0\Website.AssemblyInfo.cs
+D:\WS\Visual Studio 2017\DairyFresh\Website\obj\Debug\netcoreapp2.0\Website.dll
+D:\WS\Visual Studio 2017\DairyFresh\Website\obj\Debug\netcoreapp2.0\Website.pdb
